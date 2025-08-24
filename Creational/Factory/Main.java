@@ -10,3 +10,9 @@ public class Main {
         role2.role();
     }
 }
+
+/--------------------------------------------------------------------------------------------------------------------------------------------------------------------/
+
+Definition :
+
+“Factory Pattern hides the object creation process and provides a method to create objects based on input or conditions.”
