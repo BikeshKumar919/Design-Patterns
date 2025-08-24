@@ -35,3 +35,21 @@ public class Main {
         }
     }
 }
+
+
+
+/-----------------------------------------------------------------------------------------------------------------------------------------------------------------/
+
+Defintion :
+
+
+
+“The Singleton Design Pattern is a creational pattern that ensures a class has only one instance throughout the application and provides a global point of access to that instance.”
+
+
+
+
+
+
+
+
