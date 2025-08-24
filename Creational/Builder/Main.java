@@ -5,3 +5,11 @@ public class Main {
         System.out.println(stu);
     }
 }
+
+
+/-------------------------------------------------------------------------------------------------------------------------------------------------------------------/
+
+
+Definition :
+
+“Builder Pattern is used to create complex objects step by step, instead of putting everything into one constructor.”
